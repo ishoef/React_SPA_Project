@@ -15,6 +15,8 @@ const Footer = () => {
                         <li className="cursor-pointer">Home</li>
                         <li className="cursor-pointer">Auctions</li>
                         <li className="cursor-pointer">Categories</li>
+                        <li className="cursor-pointer">Categories</li>
+                        <li className="cursor-pointer">How to works</li>
                         <li className="cursor-pointer">How to works</li>
                     </ul>
                 </div>
