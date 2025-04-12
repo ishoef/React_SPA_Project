@@ -17,7 +17,6 @@ const Footer = () => {
                         <li className="cursor-pointer">Categories</li>
                         <li className="cursor-pointer">Categories</li>
                         <li className="cursor-pointer">How to works</li>
-                        <li className="cursor-pointer">How to works</li>
                     </ul>
                 </div>
                 <p>© 2025 AuctionHub. All rights reserved.</p>
