@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Apple iPhone 15 Pro Max",
+      "description": "Latest iPhone with 256GB storage and A17 Bionic chip.",
+      "currentBidPrice": 1250.00,
+      "timeLeft": "2h 15m",
+      "bidsCount": 18,
+      "image": "https://i.ibb.co/wNd0p1pG/image.png"
+    },
+    {
+      "id": 2,
+      "title": "Sony WH-1000XM5 Headphones",
+      "description": "Industry-leading noise cancellation with up to 30 hours of battery life.",
+      "currentBidPrice": 310.00,
+      "timeLeft": "4h 42m",
+      "bidsCount": 12,
+      "image": "https://i.ibb.co/KprJKQX7/image.png"
+    },
+    {
+      "id": 3,
+      "title": "Samsung 55\" 4K Smart TV",
+      "description": "Crystal UHD display with HDR support and built-in streaming apps.",
+      "currentBidPrice": 640.00,
+      "timeLeft": "1d 3h",
+      "bidsCount": 25,
+      "image":"https://i.ibb.co/Q3hSL32r/image.png"
+    },
+    {
+      "id": 4,
+      "title": "Gaming Laptop - RTX 4070",
+      "description": "High-performance laptop with Intel i9, 32GB RAM, and RTX 4070 GPU.",
+      "currentBidPrice": 1800.00,
+      "timeLeft": "3h 10m",
+      "bidsCount": 31,
+      "image": "https://i.ibb.co/1JTs71C6/image.png"
+    },
+    {
+      "id": 5,
+      "title": "Vintage Rolex Watch",
+      "description": "Classic stainless steel Rolex Submariner from the 1980s.",
+      "currentBidPrice": 7200.00,
+      "timeLeft": "6d 12h",
+      "bidsCount": 47,
+      "image": "https://i.ibb.co/jPN7SVyK/Bid4-min.png"
+    },
+    {
+      "id": 6,
+      "title": "Canon EOS R7 Mirrorless Camera",
+      "description": "32.5MP APS-C sensor, 4K 60p video, perfect for photography enthusiasts.",
+      "currentBidPrice": 1150.00,
+      "timeLeft": "21h 25m",
+      "bidsCount": 14,
+      "image": "https://i.ibb.co/3Jcg6t0/Bid1-min.png"
+    }
+  ]
+  
