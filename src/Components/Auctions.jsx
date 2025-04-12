@@ -44,7 +44,6 @@ const Auctions = ({itemsPromis}) => {
         });
     }
     
-    
     return (
         <div className='bg-[#ebf0f5] py-20'>
             <div className='w-[80%] mx-auto'>
